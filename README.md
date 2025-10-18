@@ -2,12 +2,57 @@
 📖 Project Overview
 
 This project analyzes a dataset of movies and TV shows to uncover insights about ratings, popularity, genres, languages, countries, directors, and cast.
-The primary goals are:
 
-To identify trends in global content production
+Goals:
 
-To find popular genres, directors, and languages
+Identify trends in global content production
 
-To explore the relationship between ratings and popularity
+Find popular genres, directors, and languages
 
-To provide actionable insights for content creators and distributors
+Explore the relationship between ratings and popularity
+
+Provide actionable insights for content creators, distributors, and viewers
+
+🗂 Dataset Description
+Columns
+
+showId – Unique identifier for each title
+
+title – Name of the movie or TV show
+
+director – Director(s) of the title
+
+cast – Main cast members
+
+country – Country of production
+
+genres – Genre(s) of the title
+
+language – Language of the title
+
+rating – Viewer rating
+
+popularity – Popularity score
+
+🔧 Data Cleaning & Preprocessing
+Handling Multi-value Columns
+
+Columns like cast, director, and country often contain multiple values separated by commas.
+
+These were split into individual entries to allow detailed analysis of each actor, director, and country.
+
+Language Standardization
+
+The language column contained symbols, abbreviations, or inconsistent names.
+
+A mapping table was created to convert all entries into standard full language names (e.g., EN → English, FR → French).
+
+Removing Irrelevant Columns
+
+Columns without analytical value were removed to reduce noise.
+
+General Cleaning
+
+Handled missing/null values
+
+Trimmed extra spaces and standardized text formatting
