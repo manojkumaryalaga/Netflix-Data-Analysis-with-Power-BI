@@ -1,5 +1,5 @@
-🎬 Netflix / Movies Analysis Project
-📖 Project Overview
+## 🎬 Netflix / Movies Analysis Project
+### 📖 Project Overview
 
 This project analyzes a dataset of movies and TV shows to uncover insights about ratings, popularity, genres, languages, countries, directors, and cast.
 
