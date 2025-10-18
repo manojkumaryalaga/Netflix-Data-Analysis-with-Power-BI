@@ -1,5 +1,13 @@
-### 🎬 Netflix / Movies Analysis Project
-## 📖 Project Overview
+🎬 Netflix / Movies Analysis Project
+📖 Project Overview
 
-This project analyzes a dataset of movies and TV shows to uncover insights about popularity, ratings, genres, languages, countries, and directors.
-The goal is to understand content trends, identify popular genres, and explore global production and audience preferences.
+This project analyzes a dataset of movies and TV shows to uncover insights about ratings, popularity, genres, languages, countries, directors, and cast.
+The primary goals are:
+
+To identify trends in global content production
+
+To find popular genres, directors, and languages
+
+To explore the relationship between ratings and popularity
+
+To provide actionable insights for content creators and distributors
