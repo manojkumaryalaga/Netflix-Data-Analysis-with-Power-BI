@@ -21,7 +21,7 @@ This analysis utilizes the dataset from Kaggle:
 
 Netflix Movies and TV Shows (up to 2025)
 
-Columns
+Columns:
 
 showId – Unique identifier for each title
 
