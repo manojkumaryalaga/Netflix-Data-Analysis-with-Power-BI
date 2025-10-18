@@ -1,19 +1,26 @@
 ## 🎬 Netflix / Movies Analysis Project
 ### 📖 Project Overview
 
-This project analyzes a dataset of movies and TV shows to uncover insights about ratings, popularity, genres, languages, countries, directors, and cast.
+This project analyzes a dataset of movies and to uncover insights about ratings, popularity, genres, languages, countries, directors, and cast.
 
 Goals:
 
-Identify trends in global content production
+1.Identify trends in global content production
 
-Find popular genres, directors, and languages
+2.Find popular genres, directors, and languages
 
-Explore the relationship between ratings and popularity
+3.Explore the relationship between ratings and popularity
 
-Provide actionable insights for content creators, distributors, and viewers
+4.Provide actionable insights for content creators, distributors, and viewers
 
-🗂 Dataset Description
+## 🗂 Dataset Description
+
+Dataset Source
+
+This analysis utilizes the dataset from Kaggle:
+
+Netflix Movies and TV Shows (up to 2025)
+
 Columns
 
 showId – Unique identifier for each title
