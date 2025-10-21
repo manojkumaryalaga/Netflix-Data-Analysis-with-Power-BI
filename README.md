@@ -15,13 +15,13 @@ Goals:
 
 ## 🗂 Dataset Description
 
-Dataset Source
+### Dataset Source
 
 This analysis utilizes the dataset from Kaggle:
 
 Netflix Movies and TV Shows (up to 2025)
 
-Columns:
+### Columns:
 
 showId – Unique identifier for each title
 
@@ -41,7 +41,7 @@ rating – Viewer rating
 
 popularity – Popularity score
 
-🔧 Data Cleaning & Preprocessing
+### 🔧 Data Cleaning & Preprocessing
 Handling Multi-value Columns
 
 Columns like cast, director, and country often contain multiple values separated by commas.
