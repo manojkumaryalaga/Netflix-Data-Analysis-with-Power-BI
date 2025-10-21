@@ -50,6 +50,13 @@ Columns include:
 - Trimmed extra spaces and standardized text formatting  
 - Unified categorical naming conventions  
 
+### Data Cleaning Workflow Screenshots 
+![](screenshots/Picture12.jpg)
+![](screenshots/Picture12.jpg)
+![](screenshots/Picture12.jpg)
+![](screenshots/Picture12.jpg)
+![](screenshots/Picture12.jpg)
+
 ### 🧮 DAX Queries
 
 DAX measures were created to handle post-cleaning duplicates and enable meaningful aggregations:
