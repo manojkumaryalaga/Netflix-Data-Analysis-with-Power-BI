@@ -1,4 +1,4 @@
-## 🎬 Netflix / Movies Analysis Project
+## 🎬 Netflix Movies Analysis Project
 ---
 ### 📖 Project Overview
 
@@ -13,6 +13,7 @@ Goals:
 3.Explore the relationship between ratings and popularity
 
 4.Provide actionable insights for content creators, distributors, and viewers
+
 ---
 ## 📊 Dataset
 
