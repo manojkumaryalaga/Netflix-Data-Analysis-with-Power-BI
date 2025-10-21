@@ -51,14 +51,14 @@ Columns include:
 - Unified categorical naming conventions  
 
 ### Data Cleaning Workflow Screenshots 
-![](../screenshots/Screenshot(64).png)
-![](screenshots/Screenshot(66).png)
-![](screenshots/Screenshot(67).png)
-![](screenshots/Screenshot(68).png)
-![](screenshots/Screenshot(74).png)
-![](screenshots/Screenshot(75).png)
-![](screenshots/Screenshot(82).png)
-![](screenshots/Screenshot(92).png)
+![](screenshots/Screenshot%20%2864%29.png)
+![](screenshots/Screenshot%20%2866%29.png)
+![](screenshots/Screenshot%20%2867%29.png)
+![](screenshots/Screenshot%20%2868%29.png)
+![](screenshots/Screenshot%20%2874%29.png)
+![](screenshots/Screenshot%20%2875%29.png)
+![](screenshots/Screenshot%20%2882%29.png)
+![](screenshots/Screenshot%20%2892%29.png)
 ### 🧮 DAX Queries
 
 DAX measures were created to handle post-cleaning duplicates and enable meaningful aggregations:
