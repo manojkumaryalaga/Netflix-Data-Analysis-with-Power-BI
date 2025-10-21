@@ -15,8 +15,6 @@ Goals:
 
 ## 📊 Dataset
 
-## 📊 Dataset
-
 [Netflix Movies & TV Shows (till 2025) dataset on Kaggle](https://www.kaggle.com/code/sonawanelalitsunil/netflix-movies-tv-shows-till-2025/input?select=netflix_tv_shows_detailed_up_to_2025.csv)
 
 Rows: 1M+ 
