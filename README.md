@@ -51,7 +51,7 @@ Columns include:
 - Unified categorical naming conventions  
 
 ### Data Cleaning Workflow Screenshots 
-![](screenshots/Screenshot(64).png)
+![](../screenshots/Screenshot(64).png)
 ![](screenshots/Screenshot(66).png)
 ![](screenshots/Screenshot(67).png)
 ![](screenshots/Screenshot(68).png)
