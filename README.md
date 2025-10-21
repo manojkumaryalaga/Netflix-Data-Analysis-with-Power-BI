@@ -39,7 +39,7 @@ Columns include:
 - These were **split into individual entries** to enable detailed analysis by actor, director, and country.  
 
 **Language Standardization**  
-- The `language` column had symbols and inconsistent names.  
+- The language column had symbols and inconsistent names.  
 - A **mapping table** was used to convert abbreviations into full language names (e.g., `EN → English`, `FR → French`).  
 
 **Removing Irrelevant Columns**  
