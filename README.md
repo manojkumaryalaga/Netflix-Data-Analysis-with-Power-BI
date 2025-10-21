@@ -49,3 +49,15 @@ Columns include:
 - Handled missing/null values  
 - Trimmed extra spaces and standardized text formatting  
 - Unified categorical naming conventions  
+
+### 🧮 DAX Queries
+
+DAX measures were created to handle post-cleaning duplicates and enable meaningful aggregations:
+
+Distinct Movie Count – Counts each unique movie title once.
+
+Total Budget (Distinct) – Calculates the sum of unique movie budgets.
+
+Total Revenue (Distinct) – Aggregates distinct revenues per movie to avoid duplication after splitting multi-value columns.
+
+Language Category – Categorizes titles into English vs Non-English for comparative analysis.
