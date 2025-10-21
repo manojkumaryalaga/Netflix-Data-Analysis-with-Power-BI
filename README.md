@@ -101,6 +101,8 @@ Metric	Value	Description
 - Total Movies	2,975	Number of Netflix movies analyzed in the dataset.
 - Genre Categories	19	Total distinct movie genres identified.
 
+
+---
 ### 🌍 Geographical Insights
 
 USA, UK, South Korea, Czech Republic, and Slovakia are the Top 5 countries by movie ratings.
@@ -108,6 +110,8 @@ USA, UK, South Korea, Czech Republic, and Slovakia are the Top 5 countries by mo
 The USA dominates Netflix’s production and revenue contribution.
 
 The world map visualization indicates global content distribution, with strong activity in North America, Europe, and Asia.
+
+---
 
 ### 🎭 Genre Analysis
 
@@ -125,12 +129,14 @@ Fantasy
 
 These genres collectively contribute the highest box office revenues.
 
+---
 ### 🌐 Language Category Breakdown
 
 English Movies: 75.21% of total releases.
 
 Non-English Movies: 24.79%, reflecting Netflix’s growing investment in regional and international productions.
 
+---
 ### 🎬 Director Insights
 
 The Top 5 Directors by Movie Count show strong correlations between budget and box office performance.
