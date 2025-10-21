@@ -78,7 +78,18 @@ DAX measures were created to handle post-cleaning duplicates and enable meaningf
 - Total Revenue (Distinct) – Aggregates distinct revenues per movie to avoid duplication after splitting multi-value columns.
 
 - Language Category – Categorizes titles into English vs Non-English for comparative analysis.
-
+---
+### Screenshots
+---
+![](screenshots/Screenshot%20%28104%29.png)
+---
+![](screenshots/Screenshot%20%28105%29.png)
+---
+![](screenshots/Screenshot%20%28106%29.png)
+---
+### Netflix Dashboard 
+---
+![](screenshots/Screenshot%20%2892%29.png)
 ---
 ### 🔢 Key Metrics
 Metric	Value	Description
