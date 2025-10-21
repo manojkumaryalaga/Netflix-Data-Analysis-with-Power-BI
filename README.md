@@ -37,7 +37,7 @@ Columns include:
 ### 🔧 Data Cleaning & Preprocessing
 
 **Handling Multi-value Columns**  
-- Columns such as `cast`, `director`, and `country` often contained multiple values separated by commas.  
+- Columns such as cast, director, and country often contained multiple values separated by commas.  
 - These were **split into individual entries** to enable detailed analysis by actor, director, and country.  
 
 **Language Standardization**  
