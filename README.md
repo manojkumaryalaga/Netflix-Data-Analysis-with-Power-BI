@@ -61,3 +61,63 @@ DAX measures were created to handle post-cleaning duplicates and enable meaningf
 - Total Revenue (Distinct) – Aggregates distinct revenues per movie to avoid duplication after splitting multi-value columns.
 
 - Language Category – Categorizes titles into English vs Non-English for comparative analysis.
+
+
+
+## 🔢 Key Metrics
+Metric	Value	Description
+Total Screening Countries	82	Netflix movies have been released across 82 countries worldwide.
+Languages	42	Content is available in 42 different languages, showcasing Netflix’s multilingual diversity.
+Total Budget ($)	118 billion USD	The combined budget invested in movie production.
+Total Revenue ($)	346 billion USD	The cumulative revenue generated from these movies.
+Total Movies	2,975	Number of Netflix movies analyzed in the dataset.
+Genre Categories	19	Total distinct movie genres identified.
+🌍 Geographical Insights
+
+USA, UK, South Korea, Czech Republic, and Slovakia are the Top 5 countries by movie ratings.
+
+The USA dominates Netflix’s production and revenue contribution.
+
+The world map visualization indicates global content distribution, with strong activity in North America, Europe, and Asia.
+
+🎭 Genre Analysis
+
+Top Genres by Total Revenue:
+
+Adventure
+
+Comedy
+
+Science Fiction
+
+Action
+
+Fantasy
+
+These genres collectively contribute the highest box office revenues.
+
+🌐 Language Category Breakdown
+
+English Movies: 75.21% of total releases.
+
+Non-English Movies: 24.79%, reflecting Netflix’s growing investment in regional and international productions.
+
+🎬 Director Insights
+
+Top 5 Directors by Movie Count show strong correlations between budget and box office performance.
+
+Notable directors include Ridley Scott, Guy Ritchie, Jon M. Chu, Clint Eastwood, and Steven Soderbergh, who have maintained consistent contributions to Netflix’s cinematic portfolio.
+
+✅ Conclusion
+
+The analysis demonstrates that Netflix maintains global dominance by:
+
+Producing a diverse multilingual library.
+
+Prioritizing high-budget genres like Adventure and Comedy that drive substantial revenue.
+
+Leveraging renowned directors to maximize return on investment.
+
+Expanding non-English productions, showing strategic regional market growth.
+
+In summary, Netflix’s strategic mix of genre diversity, language inclusivity, and global distribution has fueled its $346B total revenue and cemented its position as a leader in global entertainment streaming.
