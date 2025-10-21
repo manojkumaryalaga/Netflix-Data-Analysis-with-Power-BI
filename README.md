@@ -74,12 +74,12 @@ DAX measures were created to handle post-cleaning duplicates and enable meaningf
 
 ### 🔢 Key Metrics
 Metric	Value	Description
-Total Screening Countries	82	Netflix movies have been released across 82 countries worldwide.
-Languages	42	Content is available in 42 different languages, showcasing Netflix’s multilingual diversity.
-Total Budget ($)	118 billion USD	The combined budget invested in movie production.
-Total Revenue ($)	346 billion USD	The cumulative revenue generated from these movies.
-Total Movies	2,975	Number of Netflix movies analyzed in the dataset.
-Genre Categories	19	Total distinct movie genres identified.
+- Total Screening Countries	82	Netflix movies have been released across 82 countries worldwide.
+- Languages	42	Content is available in 42 different languages, showcasing Netflix’s multilingual diversity.
+- Total Budget ($)	118 billion USD	The combined budget invested in movie production.
+- Total Revenue ($)	346 billion USD	The cumulative revenue generated from these movies.
+- Total Movies	2,975	Number of Netflix movies analyzed in the dataset.
+- Genre Categories	19	Total distinct movie genres identified.
 
 ### 🌍 Geographical Insights
 
