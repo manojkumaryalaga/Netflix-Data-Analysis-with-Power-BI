@@ -68,6 +68,7 @@ Columns include:
 ---
 ![](screenshots/Screenshot%20%2882%29.png)
 ---
+---
 ### 🧮 DAX Queries
 
 DAX measures were created to handle post-cleaning duplicates and enable meaningful aggregations:
