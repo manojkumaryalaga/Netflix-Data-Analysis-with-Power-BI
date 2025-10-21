@@ -136,6 +136,7 @@ Non-English Movies: 24.79%, reflecting Netflix’s growing investment in regiona
 The Top 5 Directors by Movie Count show strong correlations between budget and box office performance.
 
 Notable directors include Ridley Scott, Guy Ritchie, Jon M. Chu, Clint Eastwood, and Steven Soderbergh, who have maintained consistent contributions to Netflix’s cinematic portfolio.
+
 ---
 ### ✅ Conclusion
 
