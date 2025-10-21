@@ -13,53 +13,39 @@ Goals:
 
 4.Provide actionable insights for content creators, distributors, and viewers
 
-## 🗂 Dataset Description
+## 📊 Dataset
 
-### Dataset Source:
+[Netflix Movies and TV Shows dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-This analysis utilizes the dataset from Kaggle:
+Rows: 8,807  
 
-Netflix Movies and TV Shows (up to 2025)
+Columns include:
+- showId – Unique identifier for each title  
+- title – Name of the movie or TV show  
+- director – Director(s) of the title  
+- cast – List of main cast members  
+- country – Country of production  
+- genres – Genre(s) of the title  
+- language – Language of the title  
+- rating – Viewer rating  
+- popularity – Popularity score  
 
-### Columns:
-
-showId – Unique identifier for each title
-
-title – Name of the movie or TV show
-
-director – Director(s) of the title
-
-cast – Main cast members
-
-country – Country of production
-
-genres – Genre(s) of the title
-
-language – Language of the title
-
-rating – Viewer rating
-
-popularity – Popularity score
+---
 
 ### 🔧 Data Cleaning & Preprocessing
-Handling Multi-value Columns
 
-Columns like cast, director, and country often contain multiple values separated by commas.
+**Handling Multi-value Columns**  
+- Columns such as `cast`, `director`, and `country` often contained multiple values separated by commas.  
+- These were **split into individual entries** to enable detailed analysis by actor, director, and country.  
 
-These were split into individual entries to allow detailed analysis of each actor, director, and country.
+**Language Standardization**  
+- The `language` column had symbols and inconsistent names.  
+- A **mapping table** was used to convert abbreviations into full language names (e.g., `EN → English`, `FR → French`).  
 
-Language Standardization
+**Removing Irrelevant Columns**  
+- Removed columns that did not contribute meaningful insights to simplify analysis.  
 
-The language column contained symbols, abbreviations, or inconsistent names.
-
-A mapping table was created to convert all entries into standard full language names (e.g., EN → English, FR → French).
-
-Removing Irrelevant Columns
-
-Columns without analytical value were removed to reduce noise.
-
-General Cleaning
-
-Handled missing/null values
-
-Trimmed extra spaces and standardized text formatting
+**General Cleaning**  
+- Handled missing/null values  
+- Trimmed extra spaces and standardized text formatting  
+- Unified categorical naming conventions  
